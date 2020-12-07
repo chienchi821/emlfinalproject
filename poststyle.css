@@ -1,0 +1,13 @@
+
+#message{
+  color: #f1f1f1;
+  position: absolute;
+  display: inline;
+  z-index: 99;
+}
+
+#message .random-sentence {
+  font-weight: 500;
+  display: inline-block;
+  writing-mode: horizontal;
+}
